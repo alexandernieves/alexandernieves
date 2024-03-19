@@ -1,5 +1,7 @@
-<div style="position: relative; width: 100%; height: 300px; background-image: url('linkedin.png'); background-size: cover; background-position: center;">
+<div style="display: flex; justify-content: center;">
+  <img alt="Cover Image" src="linkedin.png" style="width: 100%; max-width: 800px;">
 </div>
+
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
