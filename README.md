@@ -1,4 +1,6 @@
-<img alt="Night Coding" src="linkedin.png" width='40' align="left"/>
+<div style="position: relative; width: 100%; height: 300px; background-image: url('linkedin.png'); background-size: cover; background-position: center;">
+</div>
+
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
