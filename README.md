@@ -5,7 +5,7 @@
 
 
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- ## 👋 &nbsp;Hey there! I'm Alexcode -->
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -16,7 +16,8 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at alexcodesolutionstm@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my <a href="Currículum Fullstack Developer Alexander Nieves.pdf" target="_blank">CURRICULUM</a> for more details about me. I'm open to feedback and suggestions!
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -48,7 +49,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/alexandernieves">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -57,35 +58,33 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="mailto:alexcodesolutionstm@gmail.com"><img src="https://img.shields.io/badge/-AlexCode-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alexander-jesus-nieves-montilva-49b58b183/"><img src="https://img.shields.io/badge/Alexander%20Nieves%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://api.whatsapp.com/send?phone=51987301852"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 -----
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-hi, im jd 🔮.
+Code today, conquer tomorrow! 🔮.
 
-@@advanced programming student.@@
-+ living in tel aviv, israel.
-- 17 years old
-! program engineer, web developer and shitposter
-# 📖 reverse engineering, computer science
+@@Errors are lessons.@@
++ Code is poetry.
+- Challenges are opportunities.
+! Program, create, inspire.
+# 📖 ATT: ALEXCODE
 ```
 ------
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="200" />
 
-- ✍ You can find my resume here [Resume]
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on open source
-- 📫 Reach out to me: bhumikatewary49@gmail.com
-- ⚡ Fun fact: I know how to play a piano
+### 🤝🏻 &nbsp;I consider myself as: 🚀
+
+- ✍ Logical Thinking
+- 🌱 Teamwork
+- 👯 Problem Solving
+- 📫 Communication Skills
+- ⚡ Continuous Learning
 
 </br>
 
