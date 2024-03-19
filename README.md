@@ -1,5 +1,3 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
 <img alt="Night Coding" src="img/linkedin.png" width='40' align="left"/>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
