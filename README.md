@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="img/linkedin.png" width='40' align="left"/>
+<img alt="Night Coding" src="[img/linkedin.png](https://github.com/alexandernieves/alexandernieves/blob/main/linkedin.png)" width='40' align="left"/>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
