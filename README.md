@@ -1,6 +1,7 @@
 <div style="display: flex; justify-content: center;">
-  <img alt="Cover Image" src="linkedin.png" style="width: 100%; max-width: 800px;">
+  <img alt="Cover Image" src="linkedin.png" style="width: 100%; max-width: 800px; border-radius: 20px;">
 </div>
+
 
 
 
