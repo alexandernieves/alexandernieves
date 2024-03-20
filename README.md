@@ -62,6 +62,7 @@
 <a href="https://www.linkedin.com/in/alexander-jesus-nieves-montilva-49b58b183/"><img src="https://img.shields.io/badge/Alexander%20Nieves%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://api.whatsapp.com/send?phone=51987301852"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
 <a href="https://www.instagram.com/alexcodesolutionstm"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/alexcode.solutions"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
