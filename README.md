@@ -5,6 +5,7 @@
 
 
 
+
 <!-- ## 👋 &nbsp;Hey there! I'm Alexcode -->
 
 
@@ -17,6 +18,11 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at alexcodesolutionstm@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my <a href="Currículum Fullstack Developer Alexander Nieves.pdf" target="_blank">CURRICULUM</a> for more details about me. I'm open to feedback and suggestions!
+
+### 🛠 &nbsp;PORTFOLIO clic me
+<a href="https://alexcode.org/about" style="display: flex; justify-content: center;">
+  <img alt="Cover Image" src="portfolioimg.png" style="width: 100%; max-width: 800px; border-radius: 20px;">
+</a>
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -45,6 +51,9 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
